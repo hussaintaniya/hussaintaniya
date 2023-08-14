@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **TensorFlow and Ruby**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hussaintaniya](https://github.com/hussaintaniya)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/hussaintaniya)
 
-- 📝 I occasionally write Blogs [https://medium.com/@taniyaahussain](https://medium.com/@taniyaahussain)
+- 📝 I occasionally write Blogs on [Medium ](https://medium.com/@taniyaahussain)
 
 - 📫 How to reach me **hussain.taniya01@icloud.com**
 

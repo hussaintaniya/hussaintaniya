@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Taniya 🧁</h1>
-<div align="center"> <img src="https://github.com/hussaintaniya/hussaintaniya/blob/main/banner2.png"> </div>
+<div align="center"> <img src="https://github.com/hussaintaniya/hussaintaniya/blob/main/banner3.png"> </div>
 <h3 align="center">I work on ML and DL Projects and Design</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/hussaintaniya/hussaintaniya/blob/main/SGQ1.gif">
 
